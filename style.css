@@ -1,0 +1,35 @@
+body {
+  height: 100%;
+  width: 80%;
+  background-color: orange;
+}
+p{
+  font-family:Arial, Helvetica, sans-serif;
+  color: red;
+  background-color: lightgray;
+  
+}
+h1{
+  font-family: Georgia, serif;
+  color: #990000; 
+  background-color: #ffd9cc; 
+}
+h2{
+   font-family: Verdana, sans-serif;
+  color: #0066cc; 
+  background-color: #ccf0ff; 
+}
+h3{
+  font-family: 'Times New Roman', serif;
+  color: #336600; 
+  background-color: #e6ffe6; 
+}
+main{
+background-color: magenta;
+  
+}
+footer{
+  font-style: italic;
+  background-color: black;
+  color: gold;
+}
